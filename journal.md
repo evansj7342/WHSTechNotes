@@ -9,3 +9,8 @@ I want to mostly have a career in video game design, music, or a youtuber. Compu
 I think that the virtual store will be a good thing. It can make people who can't get jobs have a chance to work and earn money. Adding virtual stores will be a good future for jobs in general. Sometimes the job market isn't a good place to be and the virtual stores could fix that. If the IKEA virtual store takes off, there could be alot more virtual stores in the future.
 # October 14, 2025
 I asked Canva AI to make an educational video about the letters of the alphabet. Canva only interpreted it by creating photos and not videos. The interactive parts that worked were the photos. A way that I could improve my prompt was to only give it a selection of photos. Canva AI has a paid feature to make video clips.
+# October 20, 2025
+Name    Class  Seat
+Franklin Second 91A
+Hardeep  Third  61F
+Marla   First  35B
