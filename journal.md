@@ -14,3 +14,5 @@ Name    Class  Seat
 Franklin Second 91A
 Hardeep  Third  61F
 Marla   First  35B
+# October 27, 2025
+I think that being able to use technology to help people during a natural disaster is a life saving revolution. Some areas don't get a notification that a disaster is happening, so people get killed in the disasters. I believe that this can help solve that issue. It's also really efficient to use, since alot of places have internet. One downside is that some areas can't use it due to lack of internet.
