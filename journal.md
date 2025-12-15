@@ -16,6 +16,8 @@ Hardeep  Third  61F
 Marla   First  35B
 # October 27, 2025
 I think that being able to use technology to help people during a natural disaster is a life saving revolution. Some areas don't get a notification that a disaster is happening, so people get killed in the disasters. I believe that this can help solve that issue. It's also really efficient to use, since alot of places have internet. One downside is that some areas can't use it due to lack of internet.
+# November 3, 2025
+SNAP running out of funding can hurt many by not giving them the resources they need. Technology can help by telling people the locations of the food banks if they don't have SNAP. If people that use SNAP don't have internet, they can't find out where the food banks are. I would not invent anything, as I think SNAP benefits are a good system. I would improve the food that the families recieve and give them healthy options.
 # November 17, 2025
 What I am going to do over thanksgiving break is catch up on sleep and play games. I would say eat the food too, but my parents make cornbread, black eyed peas, and greens, which I find disgusting. Hopefully this year they find a good turkey or good chicken to eat, because I hated thanksgiving for the food they give me. I guess bad food is better than no food, though.
 # December 1, 2025
