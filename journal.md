@@ -28,3 +28,5 @@ I think drones are useful for everyday life. A job that uses drones is a drone p
 A self driving car could have many accidents to due not responding to a school bus with its stop sign extended because the car is faulty or uses underdeveloped technology. The car could fail in areas like this because it has no way to read stop signs or traffic lights. If I worked for the automatic cars, I would implement a way for the cars to read bus stop signs. A way to fix the car into responding to sensors, stop signs, and traffic lights is to test them on a empty road and see the results. There is also a way to code the cars into responding to these issues.
 # December 15, 2025
 My plans for the winter break is to get out of the burnout I've been feeling for the entire year and to enjoy the new years. I would also want to go somewhere during the break instead of playing video games the entire time.
+# January 7, 2026
+A way that me and my family used technology over the weekend is doing daily things like watching tv or playing video games. We also used technology like GPS to find out where places are and how to get to them.
