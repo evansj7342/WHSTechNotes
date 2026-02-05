@@ -34,3 +34,5 @@ A way that me and my family used technology over the weekend is doing daily thin
 Safe spaces are needed on the internet, because there is a chance that someone could live in an area or country that does not support their beliefs or way of life. The internet is a way of a lot of peoples lives and them having a safe space would be nice. If developers ignore moderating a safe space and leave it open, a lot of harassment incidents would happen. Autcraft is doing something helpful and important by moderating its server so incidents like these don't happen. I think the internet needs more safe spaces for people of all religions, beliefs, and races.
 # January 20, 2026
 A way to help people with technology is 
+# January 29, 2026
+I took the MAP test and I thought I did ok. Some questions felt easy, others felt like I would find my way to the right answer, but some I couldn't understand. I think a preparation day would have been better for everyone that took the test.
