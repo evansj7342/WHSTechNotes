@@ -36,3 +36,5 @@ Safe spaces are needed on the internet, because there is a chance that someone c
 A way to help people with technology is 
 # January 29, 2026
 I took the MAP test and I thought I did ok. Some questions felt easy, others felt like I would find my way to the right answer, but some I couldn't understand. I think a preparation day would have been better for everyone that took the test.
+# Feburary 10, 2026
+I sometimes enjoy watching football, and I have thought about playing it. I didn't watch the super bowl this year.
