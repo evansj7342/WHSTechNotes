@@ -38,3 +38,5 @@ A way to help people with technology is
 I took the MAP test and I thought I did ok. Some questions felt easy, others felt like I would find my way to the right answer, but some I couldn't understand. I think a preparation day would have been better for everyone that took the test.
 # Feburary 10, 2026
 I sometimes enjoy watching football, and I have thought about playing it. I didn't watch the super bowl this year.
+# March 30, 2026
+What can make events like March Madness hard to predict is because there are many different factors. The best player on one team can get hurt and their team would suffer. A supercomputer wouldn't predict the March Madness tournament becuase it isn't like gambling: it's even more luck based. If it were built to predict games, it would struggle to account for injuries, turnovers, and overall flow of both teams. The unpredictable nature of March Madness makes it more fun.
