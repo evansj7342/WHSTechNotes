@@ -40,3 +40,5 @@ I took the MAP test and I thought I did ok. Some questions felt easy, others fel
 I sometimes enjoy watching football, and I have thought about playing it. I didn't watch the super bowl this year.
 # March 30, 2026
 What can make events like March Madness hard to predict is because there are many different factors. The best player on one team can get hurt and their team would suffer. A supercomputer wouldn't predict the March Madness tournament becuase it isn't like gambling: it's even more luck based. If it were built to predict games, it would struggle to account for injuries, turnovers, and overall flow of both teams. The unpredictable nature of March Madness makes it more fun.
+# April 9, 2026
+I would try to convince the AI that humans can survive in the right conditions. There are conditions and rules that can make humans work well in a new society. For example,
