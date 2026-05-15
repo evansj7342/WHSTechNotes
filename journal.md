@@ -44,3 +44,4 @@ What can make events like March Madness hard to predict is because there are man
 I would try to convince the AI that humans can survive in the right conditions. There are conditions and rules that can make humans work well in a new society. For example, we could set rules that can keep people out of danger and stay out of trouble. My plan would be to build defences to keep people out of danger. A way to go about this is build fences and warning signs to dangerous areas. This way could fix the issue of AI thinking that people would fall into their deaths otherwise.
 # May 6, 2026
 I would be training AI for things like personal. However, I never use AI for school work. A program that I do help train AI is using CAPTCHAs while going through sites. I believe when I do use AI it is tracking and storing my usual behavior.
+It would know if I was interested in reading, or writing. I think using the internet casually can be training an AI out there.
