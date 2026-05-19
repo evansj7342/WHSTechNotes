@@ -45,3 +45,5 @@ I would try to convince the AI that humans can survive in the right conditions. 
 # May 6, 2026
 I would be training AI for things like personal. However, I never use AI for school work. A program that I do help train AI is using CAPTCHAs while going through sites. I believe when I do use AI it is tracking and storing my usual behavior.
 It would know if I was interested in reading, or writing. I think using the internet casually can be training an AI out there.
+# May 18, 2026
+If I had to describe Ms. Whitby to cops because she went missing, I would describe her speech patterns, like her having a lisp. I'd also describe her as African-American, she is around 5'6, and she has locks on the back. She is known for talking about technology and she says "howdy" instead of hello.
